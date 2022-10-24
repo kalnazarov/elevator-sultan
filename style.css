@@ -1,0 +1,30 @@
+.chel {
+  background-image: url(https://i.pinimg.com/564x/e3/ec/b6/e3ecb6c1d0515fd92f29aec57629eeb4.jpg);
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 1100px;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 20px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.btn {
+  width: 30px;
+  height: 30px;
+}
+.unik {
+  width: 80px;
+  height: 33px;
+  margin-top: 770px;
+  transition: 3s;
+}
